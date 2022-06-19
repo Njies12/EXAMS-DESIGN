@@ -1,0 +1,22 @@
+{
+"services"  :[
+    {
+        "id":"1",
+        "logo":"",
+        "title":"Product Design",
+        "description":"Let me help you fucus on the core of web. validate the design solution,collect your wn data, understand your users, and do not copy your competitor"
+    },
+    {
+        "id":"2",
+        "logo":"",
+        "title":"Front-end Engineering",
+        "description":"Let me help you fucus on the core of web. validate the design solution,collect your wn data, understand your users, and do not copy your competitor"
+    },
+    {
+        "id":"3",
+        "logo":"",
+        "title":"Teaching",
+        "description":"Let me help you fucus on the core of web. validate the design solution,collect your wn data, understand your users, and do not copy your competitor"
+    }
+]
+}
