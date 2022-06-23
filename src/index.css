@@ -44,7 +44,7 @@ img{
 }
 .services{
   box-shadow: 2px 2px 8px gray,  2px 2px 8px whitesmoke;
-  border-radius: 2rem 4rem;
+  border-radius:25px;
   margin-top: 2rem;
   width: 620px;
   height: 400px;
@@ -52,7 +52,7 @@ img{
   padding: 0.7rem;
   margin-left: 5%;
   margin-right: 5%;
-  padding-top: 8rem;
+  padding-top: 4rem;
   background-color: rgb(90, 88, 88);
  
 
@@ -60,9 +60,8 @@ img{
   
 }
 .services:hover{
-  background-color: white;
-  color: black;
   cursor: pointer;
+  border: 7px solid yellow;
 }
 /* Services styling ends */
 /* Button styling starting  */
@@ -77,7 +76,7 @@ border: 2px solid rgb(255, 217, 0); ;
 margin: 1rem;
 font-size: 1.8rem;
 border-radius: 30px;
-box-shadow: 2px 2px 5px gray,  -2px -2px 5px whitesmoke;
+box-shadow: 2px 2px 5px rgb(255, 217, 0),  -2px -2px 5px rgb(255, 217, 0);
 padding: 1rem;
 background-color: rgb(90, 88, 88);
 color: white;
@@ -86,6 +85,7 @@ color: white;
 background-color: rgb(255, 217, 0);
  color: black;
  border: none;
+ width: 200px;
 }
 /* Button styling end */
 
